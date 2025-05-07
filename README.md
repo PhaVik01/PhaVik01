@@ -21,3 +21,5 @@ Välkommen till min GitHub-profil! Jag är en nyfiken och engagerad Data Enginee
 Python    | SQL        | Power BI
 Git       | Azure      | VS Code
 
+
+
