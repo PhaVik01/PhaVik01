@@ -14,11 +14,10 @@ I'm a Data Engineering student with a background in retail leadership and passio
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tools & Technologies
 
 ```text
 Languages     : Python, SQL  
 Tools & IDEs  : Git, Visual Studio Code  
-Platforms     : Azure, Power BI  
-
+Platforms     : Azure, Power BI, Qlik Sense, Snowflake, Databricks  
 
