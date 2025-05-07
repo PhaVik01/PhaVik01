@@ -21,4 +21,3 @@ Languages     : Python, SQL
 Tools & IDEs  : Git, Visual Studio Code  
 Platforms     : Azure, Power BI, Qlik Sense, Snowflake, Databricks  
 
----
