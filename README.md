@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Phatsorn!
 
 I'm a Data Engineering student with a background in retail leadership and passion for data, technology, and continuous learning. Currently focused on building technical skills and applying them in real-world projects.
@@ -20,4 +21,15 @@ I'm a Data Engineering student with a background in retail leadership and passio
 Languages     : Python, SQL  
 Tools & IDEs  : Git, Visual Studio Code  
 Platforms     : Azure, Power BI, Qlik Sense, Snowflake, Databricks  
+```
 
+---
+
+## 📫 Contact Me
+
+- 📧 Email: phatsornvik@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/phatsorn-vik-3973831b7/
+
+---
+
+Thank you for visiting my profile!
