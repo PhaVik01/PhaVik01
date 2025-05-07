@@ -1,25 +1,24 @@
-# 👋 Hej, jag heter Phatsorn!
+# 👋 Hi, I'm Phatsorn!
 
-Välkommen till min GitHub-profil! Jag är en nyfiken och engagerad Data Engineering-student med bakgrund inom retail och ledarskap. Just nu fokuserar jag på att bygga projekt, utveckla mina tekniska färdigheter och hitta min plats inom tech-världen.
-
----
-
-## 👩‍💻 Om mig
-
-- 🔭 Studerar Data Engineering – med fokus på datahantering, molnteknologi & visualisering
-- 🌱 Lär mig mer om: SQL, Python, Power BI, Azure & data pipelines
-- 💡 Intresserad av AI, hållbar datateknik & affärsnytta genom data
-- 🛠️ Bygger egna projekt & övar på verkliga scenarier
-- 🚀 Letar efter LIA/praktik inom data engineering
-- 🤝 Öppen för samarbete och att bidra till open source
+I'm a Data Engineering student with a background in retail leadership and a strong passion for data, technology, and continuous learning. Currently focused on building technical skills and applying them in real-world projects.
 
 ---
 
-## 🧰 Teknologier & Verktyg
+## 💼 About Me
+
+- 🎓 Currently studying to become a Data Engineer  
+- 💡 Background in customer experience, sales, and team leadership  
+- 🔍 Interested in data pipelines, cloud platforms, and data-driven solutions  
+- 🚀 Looking for opportunities in Data Engineering  
+- 🌱 Actively learning: SQL, Python, Power BI, and Azure  
+
+---
+
+## 🧰 Tech Stack
 
 ```text
-Python    | SQL        | Power BI
-Git       | Azure      | VS Code
-
+Languages     : Python, SQL  
+Tools & IDEs  : Git, Visual Studio Code  
+Platforms     : Azure, Power BI  
 
 
