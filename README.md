@@ -23,6 +23,6 @@ Platforms     : Azure, Power BI, Qlik Sense, Snowflake, Databricks
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 Feel free to reach out via [LinkedIn]https://www.linkedin.com/in/phatsorn-vik-3973831b7/ or email: phatsornvik@gmail.com
