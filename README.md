@@ -21,3 +21,8 @@ Languages     : Python, SQL
 Tools & IDEs  : Git, Visual Studio Code  
 Platforms     : Azure, Power BI, Qlik Sense, Snowflake, Databricks  
 
+---
+
+## 📫 Contact
+
+Feel free to reach out via [LinkedIn]https://www.linkedin.com/in/phatsorn-vik-3973831b7/ or email: phatsornvik@gmail.com
