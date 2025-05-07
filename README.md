@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phatsorn!
 
-I'm a Data Engineering student with a background in retail leadership and a strong passion for data, technology, and continuous learning. Currently focused on building technical skills and applying them in real-world projects.
+I'm a Data Engineering student with a background in retail leadership and passion for data, technology, and continuous learning. Currently focused on building technical skills and applying them in real-world projects.
 
 ---
 
